@@ -48,5 +48,6 @@ You  start the local development server or go to you http://localhost/alejo/publ
 
     php artisan serve
 
+Now the proyect will be running 
 
   
